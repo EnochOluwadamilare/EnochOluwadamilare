@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/EnochOluwadamilare/EnochOluwadamilare/blob/main/image/lockbook.jpg?raw=true)](https://enoch.oyerinde.org)
 <h1 align="center">Hi 👋, I'm Oyerinde Enoch.O</h1>
-<h3 align="center">The Co-Founder & CTO, LockBook Limited, Engineering Lead at Send24, Christian centric Tech Mentor, and Software Engineer from Nigeria</h3>
+<h3 align="center">The Co-Founder & CTO, LockBook Limited, Engineering Lead at Send24 (Dilivva Int'l Tech), Christian centric Tech Mentor, and Software Engineer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enocholuwadamilare&label=Profile%20views&color=0e75b6&style=flat" alt="enocholuwadamilare" /> </p>
 
