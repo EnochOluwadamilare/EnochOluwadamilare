@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/enoch-oyerinde-29b542b0/](https://www.linkedin.com/in/enoch-oyerinde-29b542b0/)
 
-- 💬 Ask me about **Tech Entrepreneurship, Innovation, Mobile Development, Swift, React(Native), JS/TS**
+- 💬 Ask me about **Tech Entrepreneurship, Innovation, Christian Tech Mentorship, Mobile Development, Swift, React(Native), JS/TS**
 
 - 📫 How to reach me **https://www.linkedin.com/in/enoch-oyerinde-29b542b0/**
 
